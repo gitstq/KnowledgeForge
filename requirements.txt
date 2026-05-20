@@ -1,0 +1,7 @@
+# KnowledgeForge - 轻量级本地AI知识库构建引擎
+# 零依赖设计 - 仅使用Python标准库
+# Python版本要求: >= 3.8
+
+# 可选依赖（用于增强功能）
+# PyPDF2>=3.0.0; python_version>="3.8"  # PDF文件支持
+# beautifulsoup4>=4.9.0; python_version>="3.8"  # HTML解析支持
